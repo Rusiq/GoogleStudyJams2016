@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Volume Calculation</string>
+    <string name="action_settings">Settings</string>
+    <string name="radius">Enter the radius value:</string>
+    <string name="height">Enter the height value:</string>
+    <string name="calculate">Calculate</string>
+    <string name="send">Send the result after calculation</string>
+    <string name="volume">The volume V of a cone is equal:</string>
+    <string name="conepic">Cone</string>
+    <string name="Cone">cone</string>
+    <string name="Vcone">Volume of a cone</string>
+    <string name="Choose">Choose an Email client :</string>
+
+
+</resources>

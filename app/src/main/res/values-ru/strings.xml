@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Расчет объёма</string>
+    <string name="action_settings">Настройки</string>
+    <string name="radius">Введите значение радиуса:</string>
+    <string name="height">Введите значение высоты:</string>
+    <string name="calculate">Расчитать</string>
+    <string name="send">Отправить результат после расчета</string>
+    <string name="volume">Объём конуса V равен:</string>
+    <string name="conepic">Конус</string>
+    <string name="Cone">Конус</string>
+    <string name="Vcone">Объём конуса</string>
+    <string name="Choose">Выберите Email клиент :</string>
+
+</resources>
